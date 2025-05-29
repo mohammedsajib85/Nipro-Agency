@@ -1,0 +1,1272 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+ @media (max-width: 575.98px) {
+   .pb_custom {
+     padding-bottom: 60px;
+   }
+
+   /* Header Start */
+   header {
+     padding: 0;
+   }
+
+   .logo {
+     font-size: 20px;
+   }
+
+   .menu ul li a {
+     padding: 4px 0;
+   }
+
+   .dropdown-custom {
+     margin: 0 50px !important;
+   }
+
+   .search-icon {
+     padding-top: 0px;
+   }
+
+   .input-search {
+     padding: 0 7px;
+   }
+
+   .search-custom {
+     padding: 9px 9px;
+     font-size: 16px;
+   }
+
+   /* Header End */
+   /* Banner Start */
+   .slider-text {
+     text-align: center;
+     margin: 60px 0 40px;
+   }
+
+   .slider-text h2 {
+     font-size: 26px;
+   }
+
+   .slider-text p {
+     margin: 20px 0px;
+     padding-right: 0;
+     line-height: 27px;
+   }
+
+   .b_c_btn {
+     text-align: center;
+     margin-bottom: 10px;
+   }
+
+   .btn-c {
+     padding: 10px 15px;
+   }
+
+   .btn-arrow {
+     margin-left: 10px;
+   }
+
+   /* Banner End */
+   /* Welcome Section Start */
+   .shape {
+     width: 2px;
+     height: 36px;
+
+   }
+
+   .t_head {
+     margin-top: 10px;
+     font-size: 25px;
+
+   }
+
+   .w_text {
+     padding: 25px 0;
+   }
+
+   /* Welcome Section End */
+   /* Service start */
+   .s_single {
+     margin-top: 40px;
+   }
+
+   .s_text {
+     padding: 26px;
+     border: 1px solid;
+   }
+
+   .s_icon {
+     padding: 0 5px;
+     font-size: 50px;
+     top: -26px;
+     left: 121px;
+   }
+
+   .hr-custom {
+     margin: 15px auto;
+   }
+
+   .s_text h2 {
+     margin: 21px 0 0;
+     font-size: 18px;
+   }
+
+   .s_text h2 {
+     margin: 25px 0 0;
+     font-size: 17px;
+   }
+
+   .btn_service {
+     margin: 12px 0 0px;
+   }
+
+   /* About Us start */
+   .about_img {
+     text-align: center;
+   }
+
+   .about_text {
+     text-align: center;
+     margin: 20px 0 0;
+   }
+
+   .a_para {
+     margin: 15px 0 20px;
+   }
+
+   /* Recent woek staart */
+   /* Portfolio start */
+   .portfolio {
+     padding-top: 60px;
+   }
+
+   .portfolio_menu li button {
+     margin-right: 0;
+     margin-left: 5px;
+     padding: 10px 4px;
+   }
+
+   .p_single {
+     margin-top: 30px;
+   }
+
+   /* Features Start */
+   .f_single {
+     text-align: center;
+     margin-top: 50px;
+   }
+
+   .icon-custom {
+     font-size: 38px;
+     top: -9px;
+     left: 16px;
+   }
+
+
+
+   .f_h2 {
+     font-size: 17px;
+     margin-left: 0px;
+   }
+
+   .f_p {
+     margin: 18px 0;
+   }
+
+   .p_overlay_icon i {
+     font-size: 45px;
+     top: 40%;
+     left: 50%;
+   }
+
+   .p_text {
+     text-align: center;
+     padding: 7px 15px;
+   }
+
+   .p_text h3 {
+     margin: 0;
+     font-family: lato-bold;
+     font-size: 17px;
+   }
+
+
+
+   .p_text h3 {
+     margin: 0 0 4px;
+     font-family: lato-bold;
+     font-size: 17px;
+   }
+
+   /* Worker Start */
+   .work_text {
+     padding: 11px 20px;
+   }
+
+   .work_text h2 {
+     font-size: 17px;
+   }
+
+   /* Worker section Start */
+   .mt_custom {
+     margin-top: 50px;
+   }
+
+   /* Price Section Start */
+   .custom_dolar {
+     font-size: 30px;
+     color: #333;
+   }
+
+   .p_details {
+     padding: 30px 28px;
+   }
+
+   .p_details h4 {
+     margin-bottom: 20px;
+     font-size: 16px;
+   }
+
+   .p_title h3 {
+     padding: 0 6px;
+     left: 46px;
+     font-size: 17px;
+   }
+
+   .price_menu_item {
+     margin-bottom: 15px;
+   }
+
+   .btn_sign {
+     margin-top: 5px;
+     font-size: 14px;
+     padding: 10px 30px;
+   }
+
+   /* Template Start */
+   .tamplate_text h5 {
+     padding: 0;
+     text-align: center;
+
+     font-size: 16px;
+   }
+
+   .t_link {
+     text-align: center !important;
+     margin-top: 20px;
+   }
+
+   .t_btn {
+     padding: 10px 30px;
+   }
+
+   /* OWner start */
+   .owner {
+     padding-top: 60px;
+   }
+
+   .c_single {
+     text-align: center;
+     padding: 20px 5px;
+     line-height: 28px;
+   }
+
+   .owner_about_img {
+     padding: 0 50px;
+   }
+
+   .quotation-mark {
+     top: 9px;
+     left: 62px;
+   }
+
+   .o_h3 {
+     margin: 10px 0 5px;
+     font-size: 17px;
+   }
+
+   .o_p1 {
+     font-size: 16px;
+   }
+
+   .o_h4 {
+     margin: 0 0 7px;
+     font-size: 17px;
+   }
+
+   .o_p2 {
+     margin-bottom: 5px;
+   }
+
+   .carousel_button {
+     text-align: center;
+     margin-top: 8px;
+     padding: 8px 2px;
+     writing-mode: horizontal-tb;
+   }
+
+   .btn_prev {
+     margin: 0 40px 0 0;
+   }
+
+   .btn_next {
+     margin: 0 0 0 40px;
+   }
+   .w_social ul {
+    bottom: 130px;
+}
+   .w_social ul li {
+    padding: 5px 8px;
+  }
+  .w_social ul a i {
+    font-size: 24px;
+  }
+
+   /* Contact Us start */
+   .contact_title {
+     top: -24px;
+     left: 79px;
+     padding: 0 6px;
+     font-size: 23px;
+   }
+
+   .contact_from {
+     padding: 35px 20px 0;
+   }
+
+   .custom_input {
+     font-size: 16px;
+     border: none;
+     padding: 5px 8px;
+     border-bottom: 1px solid #cccccc;
+   }
+
+   .text_area {
+     padding-bottom: 20px;
+   }
+
+   .btn_send {
+     font-size: 15px;
+     padding: 9px 15px !important;
+     margin: 0px 0 15px;
+   }
+
+   /* Footer Start */
+   /* Footer top */
+   .f_text p {
+     margin: 15px 0;
+
+   }
+
+   .f_link li {
+     margin-left: 0;
+   }
+
+   .f_link li a i {
+     padding-top: 7px;
+     width: 35px;
+     height: 35px;
+     font-size: 20px;
+   }
+
+   /* Footer top end*/
+   /* Footer Down Start */
+   .footer_down {
+     padding: 20px 0;
+   }
+
+   .fd_text {
+     text-align: center;
+   }
+
+   .fd_link {
+     text-align: left;
+     margin-top: 10px;
+   }
+
+   .fd_link ul li {
+     margin: 0 0 0 3px !important;
+   }
+
+   .fd_link ul li a {
+     text-decoration: none;
+     font-size: 15px;
+   }
+
+
+   /* Footer End */
+ }
+
+ /* Small devices (landscape phones, 576px and up) */
+ @media (min-width: 576px) and (max-width: 767.98px) {
+   .pb_custom {
+     padding-bottom: 60px;
+   }
+
+   /* Header Start */
+   header {
+     padding: 0;
+   }
+
+   .logo {
+     font-size: 20px;
+   }
+
+   .menu ul li a {
+     padding: 4px 0;
+   }
+
+   .dropdown-custom {
+     margin: 0 50px !important;
+   }
+
+   .search-icon {
+     padding-top: 0px;
+   }
+
+   .input-search {
+     padding: 0 7px;
+   }
+
+   .search-custom {
+     padding: 9px 9px;
+     font-size: 16px;
+   }
+
+   /* Header End */
+   /* Banner Start */
+   .slider-text {
+     text-align: center;
+     margin: 70px 0 50px;
+   }
+
+   .slider-text h2 {
+     font-size: 30px;
+   }
+
+   .slider-text p {
+     margin: 20px 0px;
+     padding-right: 0;
+     line-height: 27px;
+   }
+
+   .b_c_btn {
+     text-align: center;
+     margin-bottom: 10px;
+     text-align: center;
+   }
+
+   .btn-c {
+     padding: 10px 15px;
+   }
+
+   .btn-arrow {
+     margin-left: 10px;
+   }
+
+   /* Banner End */
+   /* Welcome Section Start */
+   .shape {
+     width: 2px;
+     height: 36px;
+
+   }
+
+   .t_head {
+     margin-top: 10px;
+     font-size: 25px;
+
+   }
+
+   .w_text {
+     padding: 25px 0;
+   }
+
+   /* Welcome Section End */
+   /* Service start */
+   .s_icon {
+     padding: 0 7px;
+     font-size: 50px;
+     top: -26px;
+     left: 93px;
+   }
+
+   .s_text {
+     padding: 7px;
+   }
+
+   .s_text h2 {
+     margin: 45px 0 0;
+     font-size: 17px;
+   }
+
+   .hr-custom {
+     margin: 9px auto;
+     width: 20%;
+   }
+
+   .btn_service {
+     margin: 20px 0 15px;
+   }
+
+   /* About Us start */
+   .about_img {
+     padding: 0 80px;
+     text-align: center;
+   }
+
+   .about_text {
+     text-align: center;
+     margin: 30px 0 0;
+   }
+
+   .a_para {
+     margin: 20px 0 25px;
+   }
+
+   /* Recent woek staart */
+   /* Portfolio start */
+   .portfolio {
+     padding-top: 60px;
+   }
+
+   .portfolio_menu li button {
+     margin-right: 0px;
+   }
+
+   .p_single {
+     margin-top: 30px;
+   }
+
+   /* Features Start */
+   .f_single {
+     margin-top: 50px;
+   }
+
+   .icon-custom {
+     font-size: 40px;
+     top: -10px;
+   }
+
+   .f_h2 {
+     font-size: 17px;
+     margin-left: 50px;
+   }
+
+
+
+   .f_p {
+     margin: 22px 0;
+   }
+
+   .p_overlay_icon i {
+     font-size: 45px;
+     top: 39%;
+     left: 50%;
+   }
+
+   .p_text {
+     position: absolute;
+     bottom: 0;
+     left: 0px;
+     padding: 10px 20px;
+   }
+
+
+
+   .p_text h3 {
+     margin: 0 0 4px;
+     font-family: lato-bold;
+     font-size: 17px;
+   }
+
+   /* Worker Section Start */
+   .work_text {
+     padding: 12px 12px;
+   }
+
+   .work_text h2 {
+     font-size: 17px;
+   }
+
+   /* Worker section Start */
+   .mt_custom {
+     margin-top: 50px;
+   }
+
+   /* Price Section Start */
+   .p_title h3 {
+     padding: 0 6px;
+     left: 23px;
+   }
+
+   .p_details {
+     padding: 30px 25px;
+   }
+
+   .p_details h4 {
+     margin-bottom: 20px;
+     font-size: 17px;
+   }
+
+   .price_menu_item {
+     margin-bottom: 15px;
+   }
+
+   .btn_sign {
+     margin-top: 5px;
+     font-size: 16px;
+     padding: 10px 42px;
+   }
+
+   /* Template Start */
+   .tamplate {
+     padding: 15px 0;
+   }
+
+   .tamplate_text h5 {
+     padding: 10px 0 0;
+     font-size: 16px;
+   }
+
+   /* OWner start */
+   .owner {
+     padding-top: 60px;
+   }
+
+   .c_single {
+     text-align: center;
+     padding: 25px 30px 25px 25px;
+     line-height: 28px;
+   }
+
+   .owner_about_img {
+     padding: 0 135px;
+   }
+
+   .quotation-mark {
+     top: 9px;
+     left: 150px;
+   }
+
+   .o_h3 {
+     margin: 15px 0 5px;
+     font-size: 17px;
+   }
+
+   .o_p1 {
+     font-size: 17px;
+   }
+
+   .o_h4 {
+     margin: 5px 0 8px;
+     font-size: 17px;
+   }
+
+   .o_p2 {
+     margin-bottom: 7px;
+   }
+
+   .carousel_button {
+     text-align: center;
+     margin-top: 10px;
+     padding: 8px 2px;
+     writing-mode: horizontal-tb;
+   }
+
+   .btn_prev {
+     margin: 0 40px 0 0;
+   }
+
+   .btn_next {
+     margin: 0 0 0 40px;
+   }
+   .w_social ul {
+    bottom: 135px;
+  }
+   .w_social ul li {
+    padding: 5px 8px;
+  }
+  .w_social ul a i {
+    font-size: 24px;
+  }
+
+   /* Contact Us start */
+   .contact_title {
+     top: -26px;
+     left: 188px;
+     padding: 0 8px;
+   }
+
+   .contact_from {
+     padding: 35px 40px 0;
+   }
+
+   .custom_input {
+     border: none;
+     padding: 10px 12px;
+     border-bottom: 1px solid #cccccc;
+   }
+
+   .text_area {
+     padding-bottom: 30px;
+   }
+
+   .btn_send {
+     padding: 9px 20px !important;
+     margin: 25px 0 25px;
+   }
+
+   /* Footer Start */
+   /* Footer top */
+   .f_text p {
+     margin: 15px 0;
+   }
+
+   .f_link li {
+     margin-left: 2px;
+   }
+
+   .f_link li a i {
+     padding-top: 9px;
+     width: 42px;
+     height: 42px;
+     font-size: 22px;
+   }
+
+   /* Footer top end*/
+   /* Footer Down Start */
+   .footer_down {
+     padding: 25px 0;
+   }
+
+   .fd_text {
+     text-align: center;
+   }
+
+   .fd_link {
+     text-align: center;
+     margin-top: 10px;
+   }
+
+   /* Footer End */
+
+ }
+
+ /* Medium devices (tablets, 768px and up) */
+ @media (min-width: 768px) and (max-width: 991.98px) {
+   .pb_custom {
+     padding-bottom: 60px;
+   }
+
+   /* Header Start */
+   header {
+     padding: 10px 0;
+     font-family: lato-regular;
+   }
+
+   .logo {
+     font-size: 25px;
+
+   }
+
+   .menu ul li a {
+     padding: 5px 0;
+   }
+
+   .search-icon {
+     padding-top: 0px;
+   }
+
+   .dropdown-custom {
+     margin: 0 50px !important;
+   }
+
+   /* Header End */
+
+   /* Banner Start */
+   .slider-text {
+     margin: 130px 0 100px;
+   }
+
+   .slider-text h2 {
+     font-size: 45px;
+   }
+
+   .slider-text p {
+     padding-right: 0;
+     margin: 20px 0px;
+   }
+
+   .btn-c {
+     font-size: 16px;
+     padding: 10px 15px;
+   }
+
+   /* Banner End */
+   /* Welcome Section Start */
+   .shape {
+     width: 3px;
+     height: 45px;
+
+   }
+
+   .t_head {
+     margin-top: 15px;
+     font-size: 27px;
+
+   }
+
+   /* Welcome Section End */
+   /* Service Start */
+   .s_icon {
+     padding: 0 7px;
+     font-size: 55px;
+     top: -27px;
+     left: 107px;
+
+   }
+
+   .s_text {
+     padding: 15px;
+     border: 1px solid;
+   }
+
+   .s_text h2 {
+     margin: 50px 0 0;
+   }
+
+   .hr-custom {
+     margin: 10px auto;
+   }
+
+   .btn_service {
+     margin: 20px 0 10px;
+   }
+
+   /* About Us start */
+   .about_img {
+     text-align: center;
+     padding: 0 100px;
+
+   }
+
+   .about_text {
+     text-align: center;
+     margin: 35px 0 0;
+   }
+
+   .a_para {
+     margin: 25px 0 30px;
+   }
+
+   .a_para {
+     margin: 25px 0 30px;
+   }
+
+   /* Recent Work start */
+   /* Portfolio start */
+   .portfolio {
+     padding-top: 85px;
+   }
+
+   .portfolio_menu li button {
+     margin-right: 5px;
+   }
+
+   .p_single {
+     margin-top: 35px;
+   }
+
+   /* Portfolio end */
+   /* Recent Work end */
+   /* Recent Work start */
+   /* Portfolio start */
+   .portfolio {
+     padding-top: 85px;
+   }
+
+   .portfolio_menu ul li a {
+     margin-right: 0px;
+   }
+
+   .p_single {
+     margin-top: 35px;
+   }
+
+   .p_overlay_icon i {
+     top: 39%;
+   }
+
+   /* Portfolio end */
+   /* Recent Work end */
+   /* Features Start */
+   .f_single {
+     margin-top: 60px;
+   }
+
+   .f_h2 {
+     margin-left: 55px;
+   }
+
+   .icon-custom {
+     font-size: 43px;
+     top: -11px;
+   }
+
+   .f_p {
+     margin: 25px 0;
+   }
+
+   /* Worker Section Start */
+   .mt_custom {
+     margin-top: 60px;
+   }
+
+   /* Price Section Start */
+
+   .p_title h3 {
+     padding: 0 6px;
+     left: 37px;
+   }
+
+   .p_details {
+     padding: 40px 42px;
+   }
+
+   .btn_sign {
+     font-size: 16px;
+     padding: 10px 42px;
+   }
+
+   /* Template Start */
+   .tamplate {
+     padding: 15px 0;
+   }
+
+   .tamplate_text h5 {
+     padding: 15px 0 0;
+   }
+
+   .t_btn {
+     padding: 10px 25px;
+   }
+
+   /* OWner start */
+   .owner {
+     padding-top: 80px;
+   }
+
+   .c_single {
+     text-align: center;
+     padding: 30px 40px 30px 40px;
+   }
+
+   .owner_about_img {
+     padding: 0 200px;
+   }
+
+   .quotation-mark {
+     top: 12px;
+     left: 212px;
+   }
+
+   .o_h3 {
+     margin: 25px 0 8px;
+     font-size: 17px;
+   }
+
+   .o_p1 {
+     font-size: 17px;
+   }
+
+   .o_h4 {
+     margin: 5px 0 10px;
+     font-size: 17px;
+   }
+
+   .o_p2 {
+     margin-bottom: 13px;
+   }
+
+   .carousel_button {
+     text-align: center;
+     margin-top: 15px;
+     padding: 13px 10px;
+     writing-mode: horizontal-tb;
+   }
+
+   .btn_prev {
+     margin: 0 60px 0 0;
+   }
+
+   .btn_next {
+     margin: 0 0 0 60px;
+   }
+   .w_social ul {
+    bottom: 150px;
+    left: 0;
+}
+   /* Contact Us start */
+   .contact_title {
+     top: -31px;
+     left: 266px;
+     padding: 0 8px;
+   }
+
+   .contact_from {
+     padding: 40px 90px 0;
+   }
+
+   .custom_input {
+     border: none;
+     padding: 12px 20px;
+     border-bottom: 1px solid #cccccc;
+   }
+
+   .text_area {
+     padding-bottom: 40px;
+   }
+
+   .btn_send {
+     padding: 13px 30px !important;
+     margin: 19px 0 30px;
+   }
+
+   /* Footer Start */
+   /* Footer top */
+   .f_text p {
+     margin: 20px 0;
+   }
+
+   .f_link li a i {
+     padding-top: 7px;
+     width: 45px;
+     height: 45px;
+     font-size: 26px;
+   }
+
+   /* Footer top end*/
+   /* Footer Down Start */
+   .footer_down {
+     padding: 30px 0;
+   }
+
+   .fd_text {
+     text-align: center;
+   }
+
+   .fd_link {
+     text-align: center;
+     margin-top: 15px;
+   }
+
+   /* Footer End */
+ }
+
+ /* Large devices (desktops, 992px and up) */
+ @media (min-width: 992px) and (max-width: 1199.98px) {
+
+   /* Service Start */
+   .s_text {
+     border: 1px solid;
+   }
+
+   .s_icon {
+     padding: 0 7px;
+     left: 77px;
+   }
+
+   .hr-custom {
+     margin: 12px auto;
+     width: 20%;
+   }
+
+   .btn_service {
+     margin: 15px 0 15px;
+   }
+
+   /* Service End */
+   /* About Us Start */
+   .a_para {
+     margin: 20px 0 20px;
+   }
+
+   .about_text {
+     margin-left: 30px;
+   }
+
+   /* Recent work start */
+   .p_overlay_icon i {
+     top: 37%;
+   }
+
+   /* Features Start */
+   .f_single {
+     margin-top: 60px;
+   }
+
+   .f_h2 {
+     margin-left: 55px;
+   }
+
+   .icon-custom {
+     font-size: 43px;
+     top: -11px;
+   }
+
+   .f_p {
+     margin: 22px 0;
+   }
+
+   /* Worker Section Start */
+   .work_text {
+     padding: 12px 12px;
+   }
+
+   .work_text h2 {
+     font-size: 17px;
+   }
+
+   .mt_custom {
+     margin-top: 70px;
+   }
+
+   /* Price Item Start */
+
+   .p_title h3 {
+     padding: 0 6px;
+     font-size: 17px;
+     left: 16px;
+   }
+
+   .p_details {
+     padding: 30px 16px;
+     transition: .33s linear;
+   }
+
+   .p_details h4 {
+     margin-bottom: 20px;
+     font-size: 17px;
+   }
+
+   .price_menu_item {
+     margin-bottom: 15px;
+   }
+
+   /* Owner Start */
+   .c_single {
+     padding: 23px 10px 25px 14px;
+   }
+
+   .carousel_button {
+     padding: 25px 12px;
+   }
+
+   .o_h3 {
+     margin-bottom: 5px;
+   }
+
+   .o_h4 {
+     margin: 6px 0 10px;
+   }
+
+   .o_p2 {
+     margin-bottom: 10px;
+   }
+   .w_social ul {
+
+    bottom: 119px;
+}
+.w_social ul li {
+  padding: 3px 8px;
+}
+.w_social ul a i {
+  font-size: 24px;
+}
+   /* Contact Start */
+   .contact_title {
+     top: -39px;
+     left: 94px;
+   }
+
+   .contact_from {
+     padding: 50px 140px 0;
+   }
+
+   .btn_send {
+     margin: 25px 0 35px;
+   }
+ }
+
+ /* Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) {}
+
+ /* Extra large devices (large desktops, 1400px and up) */
+ @media (min-width: 1400px) {
+
+   /* Header start*/
+   .slider-text p {
+     padding-right: 235px;
+   }
+
+   /* Service Start */
+   .s_icon {
+     position: absolute;
+     left: 117px;
+   }
+
+   .s_text {
+     padding: 30px 30px 20px;
+     border: 2px solid;
+   }
+
+   .s_text h2 {
+     margin: 40px 0 0;
+   }
+
+   .btn_service {
+     margin: 25px 0 0px;
+   }
+
+   /* Service End */
+   /* About US Start */
+   .about_img {
+     text-align: center;
+   }
+
+   .about_text {
+
+     margin-right: 100px;
+   }
+
+   .a_para {
+     margin: 37px 0 40px;
+   }
+
+   /* Recent work start */
+
+
+   /* Price Section Start */
+   .p_details {
+     padding: 40px 45px;
+   }
+
+   .p_title h3 {
+     padding: 0 6px;
+     top: -9px;
+     left: 43px;
+   }
+
+   /* Owner About Start */
+   .c_single {
+     padding: 35px 62px 26px 25px;
+   }
+
+   .carousel_button {
+     padding: 40px 27px;
+   }
+
+   /* Contact Us start */
+   .contact_title {
+     left: 157px;
+   }
+ }
